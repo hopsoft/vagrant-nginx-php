@@ -16,7 +16,7 @@ vagrant up
 ### 2. Write some PHP
 
 ```
-echo "<?php echo 'Hello, world!'; ?>" > php_scripts/hello_world.php
+echo "<?php echo 'Hello, world...\n'; ?>" > php_scripts/hello_world.php
 ```
 
 ### 3. View the result
